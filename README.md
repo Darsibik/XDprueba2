@@ -8,7 +8,7 @@ solo hay 6 titulos  que se crean con #
  Lunes Miercoles Y Viernes  
  
  *************************************************
- 7:00 pm  CDMX
+ 7:00 pm  CDMX  Mexico
 
 ## ¿que es lo que veremos?
 
